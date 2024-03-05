@@ -10,7 +10,7 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 * `mkdocs -h` - Print help message and exit.
 * `mkdocs gh-deploy` - Deploy on git
 
-* 
+
 ## Project layout
 
     mkdocs.yml    # The configuration file.
